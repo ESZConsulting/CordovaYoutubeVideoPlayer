@@ -1,0 +1,24 @@
+{
+    "version": "1.0.5",
+    "name": "com.bunkerpalace.cordova.YoutubeVideoPlayer",
+    "cordova_name": "CordovaYoutubeVideoPlayer",
+    "description": "Play Youtube Videos in a native Video Player on Android &amp; iOS.",
+    "license": "Apache 2.0",
+    "repo": "https://github.com/JonSmart/CordovaYoutubeVideoPlayer.git",
+    "issue": "https://github.com/JonSmart/CordovaYoutubeVideoPlayer/issues",
+    "keywords": [
+        "video",
+        "youtube",
+        "videoplayer"
+    ],
+    "platforms": [
+        "android",
+        "ios"
+    ],
+    "engines": [
+        {
+            "name": "cordova",
+            "version": ">=3.0.0"
+        }
+    ]
+}
